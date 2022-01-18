@@ -1,1 +1,1 @@
-# TinDog
+# TinDog fast clone using bootstrap
